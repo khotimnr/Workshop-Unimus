@@ -4,8 +4,8 @@ library(corpus)
 library(tm)
 consumer_key <- "dp4VROTJF46o80MVrSwbU8tBh"
 consumer_secret <- "gPWyj8TDZxK5ivwvaucCT7X5H2vKvXuNb9jyiXPbMFmaeOk1e0"
-access_token <- "1137924949115432961-7IdQh7egANKRlG3tAwktO4d9lJpsB0"
-access_secret <- "vpSqBW5TPIENsuKp0KtjGaodjkxeEQkA6gYRyMRoHEohT"
+access_token <- "1137924949115432961-lkAn1201YpM8w0rYefhJHopkS7tXsh"
+access_secret <- "5LMGxEMUMmmGLoZXMdU2S7nlzBlOekzOx2r60ewCzzq0o"
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 
 library(tidyverse)
